@@ -1,4 +1,4 @@
-Hi 👋 My name is Sierra Michel
+Hi 👋 My name is Sierra 
 ==============================
 
 Emerging Full-Stack Developer
