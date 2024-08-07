@@ -8,7 +8,7 @@ I'm an emerging software developer passionate about building impactful and user-
 
 * 🌍  I'm based in Charlotte, North Carolina
 * 🧠  I'm learning Python
-* 🤝  I'm open to collaborating on Task Manager or To-Do List
+* 🤝  I'm open to collaborating 
 
 ### Skills
 
